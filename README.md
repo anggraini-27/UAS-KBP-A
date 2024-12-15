@@ -27,7 +27,7 @@ Untuk mencoba aplikasi ini, Anda cukup mendownload atau meng-clone repositori in
 Langkah-langkah:
 1. Clone repositori ini:
  [https://github.com/anggraini-27/UAS-KBP-A.git]
-2. Buka file `index.html` di browser.
+2. Buka file `Uas-KBP.html` di browser.
 
 ## Cara Menggunakan
 
