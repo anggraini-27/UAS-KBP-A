@@ -1,4 +1,4 @@
-# Aplikasi Pomodoro Timer dan Daftar Tugas
+# Aplikasi Pomodoro Timer dan To-Do List
 
 Aplikasi ini menggabungkan fitur **Pomodoro Timer** dan **To-Do List** yang dirancang untuk meningkatkan produktivitas dengan teknik Pomodoro dan membantu Anda mengelola tugas dengan efisien. 
 
@@ -38,7 +38,7 @@ Langkah-langkah:
 4. **Reset Timer**: Klik tombol **Reset** untuk mengatur ulang timer ke 00:00.
 5. Setelah selesai setiap sesi, kutipan motivasi akan muncul untuk memberi semangat.
 
-### Daftar Tugas
+### To-Do List
 1. **Menambahkan Tugas**: Ketikkan tugas baru di kolom input dan klik **Simpan Tugas**.
 2. **Menambahkan Tenggat Waktu**: Anda dapat menambahkan tenggat waktu (opsional) untuk setiap tugas.
 3. **Menandai Tugas sebagai Selesai**: Klik tombol ceklis (✔) untuk menandai tugas yang telah selesai.
@@ -55,7 +55,7 @@ Klik tombol **Mode Gelap** di bagian atas untuk beralih antara mode terang dan m
 - Ketika sesi selesai, timer akan beralih antara sesi kerja dan istirahat.
 - Waktu yang sudah dihabiskan dicatat dan ditampilkan, serta kutipan motivasi akan muncul.
 
-### Daftar Tugas
+### To-Do List
 - Menyimpan daftar tugas di **localStorage**, sehingga data tetap ada meskipun halaman dimuat ulang.
 - Setiap tugas dapat dihapus, ditandai selesai, atau memiliki tenggat waktu.
 
