@@ -8,7 +8,7 @@ Aplikasi ini menggabungkan fitur **Pomodoro Timer** dan **To-Do List** yang dira
 - **Mode Gelap**: Aplikasi ini mendukung mode gelap untuk kenyamanan mata di malam hari.
 
 ## Fitur
-- **Timer Pomodoro**: Atur durasi waktu kerja dan istirahat.
+- **Timer Pomodoro**: Atur durasi waktu belajar dan istirahat.
 - **Pencatatan Sesi**: Melacak jumlah sesi yang sudah diselesaikan dan total waktu belajar yang sudah dijalani.
 - **Daftar Tugas**: Menambahkan tugas baru, menetapkan tenggat waktu, dan menandai tugas yang telah selesai.
 - **Mode Gelap**: Beralih antara mode terang dan gelap untuk kenyamanan visual.
@@ -52,7 +52,7 @@ Klik tombol **Mode Gelap** di bagian atas untuk beralih antara mode terang dan m
 
 ### Pomodoro Timer
 - Timer menggunakan `setInterval()` untuk menghitung mundur waktu kerja dan istirahat.
-- Ketika sesi selesai, timer akan beralih antara sesi kerja dan istirahat.
+- Ketika sesi selesai, timer akan beralih antara sesi belajar dan istirahat.
 - Waktu yang sudah dihabiskan dicatat dan ditampilkan, serta kutipan motivasi akan muncul.
 
 ### To-Do List
